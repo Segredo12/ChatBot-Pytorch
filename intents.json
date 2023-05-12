@@ -1,0 +1,36 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": [
+        "It's time to me to go.",
+        "I'm going bye!",
+        "Bye",
+        "See ya tomorrow"
+      ],
+      "responses": [
+        "OK, it's was a pleasure to meet you, bye!",
+        "Bye, have a great day.",
+        "Bye",
+        "See yaa!"
+      ]
+    }
+  ]
+}
